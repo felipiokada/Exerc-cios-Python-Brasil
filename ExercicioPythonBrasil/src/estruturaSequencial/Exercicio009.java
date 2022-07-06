@@ -1,4 +1,4 @@
-package exercicio009;
+package estruturaSequencial;
 
 import java.math.RoundingMode;
 import java.text.DecimalFormat;

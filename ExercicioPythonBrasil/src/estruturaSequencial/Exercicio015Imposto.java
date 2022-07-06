@@ -1,8 +1,8 @@
-package exercicio015;
+package estruturaSequencial;
 
 import java.math.BigDecimal;
 
-public enum Imposto {
+public enum Exercicio015Imposto {
 	
 	//Testando ENUM
 	//É mais organizado

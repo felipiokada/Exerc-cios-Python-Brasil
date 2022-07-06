@@ -1,4 +1,4 @@
-package exercicio017;
+package estruturaSequencial;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
