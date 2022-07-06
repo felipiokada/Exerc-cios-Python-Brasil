@@ -1,0 +1,26 @@
+ANOTAÇÃO SOBRE O EXERCÍCIO.
+A OPÇÃO 3 NÃO É A OPÇÃO MAIS BARATO POSSÍVEL, POIS ELE BASEIA SUA OTIMIZAÇÃO NO LITRO E NÃO NO PREÇO.
+
+A ANÁLISE ABAIXO SÓ SERVE PARA OTIMIZAR A COMPRA PELO PREÇO
+
+Fator preço máximo galão = R$25/L
+Fator preço máximo latão = R$80/L
+
+Fator preço mínimo galão = R$25/3.6 = R$6,944/L
+Fator preço mínimo latão = R$80/18  = R$4,444/L
+
+Como o Fator preço máximo galão é menor que o Fator preço máximo latão, porém o Fator preço mínimo latão é
+menor que o Fator preço mínimo galão, em algum momento vale mais a pena comprar latão que galão.
+
+Como o valor máximo do galão para ser mais barato que o latão é de R$75 para 10,8L de tinta e só existem esses 2 produtos,
+é recomendado comprar um latão de 18L(R$80) do que comprar 4 galões de 3,6L quando o valor do litro for acima de 10,8L.
+
+Ex. 1: 
+LITRO NECESSÁRIO PARA PINTAR: 10.8L
+UM LATÃO = R$80,00	 = 18L
+3 GALÕES = R$75,00  = 10.8L 	<<<< mais barato
+
+Ex. 2:
+LITRO NECESSÁRIO PARA PINTAR: 10.9L
+UM LATÃO = R$80,00	 = 18L      <<<< mais barato
+4 GALÕES = R$100,00  = 14,4L
