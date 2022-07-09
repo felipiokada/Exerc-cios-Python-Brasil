@@ -33,6 +33,7 @@ public class Exercicio011 {
 			salarioDoColaborador = new BigDecimal(reader.nextDouble()).setScale(2, RoundingMode.HALF_UP);
 			colaborador.setSalario(salarioDoColaborador);;
 		} catch (Exception e) {
+			System.out.println("Não é permitido letras. Números decimais, substitua a vírgula por ponto");
 			e.getStackTrace();
 		}
 		
