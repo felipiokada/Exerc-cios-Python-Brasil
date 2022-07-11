@@ -55,8 +55,8 @@ public class Pessoa {
 		this.peso -= quilograma;
 	}
 	
-	public void crescer(double centimetros) {
-		this.altura += centimetros;
+	public void crescer(double metros) {
+		this.altura += metros;
 		this.altura = arredondarDouble(this.altura);
 	}
 	
